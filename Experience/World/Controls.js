@@ -48,7 +48,7 @@ export default class Controls {
 
   openGame() {
     // Perform the action to open the Game.html file
-    window.open("./Game.html", "_blank");
+    window.open("./Games.html", "_blank");
   }
 
   resize() {}
