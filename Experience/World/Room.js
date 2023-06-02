@@ -122,7 +122,7 @@ export default class Room {
     if (intersects.length > 0 && intersects[0].faceIndex === 5) {
       if (!this.gameOpened) {
         this.gameOpened = true;
-        window.open("/public/Games.html", "_blank");
+        window.open("public/Games.html", "_blank");
       }
   
       // Create a visual marker for the closest intersection point
