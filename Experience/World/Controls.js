@@ -48,7 +48,7 @@ export default class Controls {
 
   openGame() {
     // Perform the action to open the Game.html file
-    window.open("public/Games.html", "_blank");
+    window.open("https://artgallery-lyart.vercel.app/", "_blank");
   }
 
   resize() {}
