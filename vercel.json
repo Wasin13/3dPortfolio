@@ -1,7 +1,0 @@
-{
-    "builds": [
-      { "src": "index.html", "use": "@vercel/static-build" },
-      { "src": "public/Games.html", "use": "@vercel/static" }
-    ]
-  }
-  
